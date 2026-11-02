@@ -70,7 +70,7 @@ A native Windows assistant that runs local language models and a private knowled
 
 <div align="center">
 
-<a href="https://github.com/austinhttps/kitchen-rush"><img src="https://image.thum.io/get/width/1000/crop/560/noanimate/https://kitchen-rush-one.vercel.app" alt="Screenshot of the Kitchen Rush game" width="90%" /></a>
+<a href="https://github.com/austinhttps/kitchen-rush"><img src="assets/kitchen-rush-icon.svg" alt="Kitchen Rush app icon" width="180" /></a>
 
 ### [Kitchen Rush](https://github.com/austinhttps/kitchen-rush)
 
@@ -84,7 +84,7 @@ A real-time cooperative cooking game with a Python server and browser clients.
 
 <div align="center">
 
-<a href="https://github.com/austinhttps/whiteboard-app"><img src="https://image.thum.io/get/width/1000/crop/560/noanimate/https://whiteboard-app-austinhttps.vercel.app" alt="Screenshot of the CollabBoard whiteboard app" width="90%" /></a>
+<a href="https://github.com/austinhttps/whiteboard-app"><img src="assets/collaboard-icon.svg" alt="CollabBoard app icon" width="180" /></a>
 
 ### [CollabBoard](https://github.com/austinhttps/whiteboard-app)
 
@@ -103,13 +103,17 @@ A collaborative whiteboard built with React, Konva, and Yjs, with local persiste
 
 <div align="center">
 
-[![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=austinhttps&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffb7d5&text_color=e6edf3&icon_color=ff8fbc)](https://github.com/austinhttps)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=austinhttps&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffb7d5&text_color=e6edf3)](https://github.com/austinhttps)
+[![Followers](https://img.shields.io/github/followers/austinhttps?style=for-the-badge&logo=github&label=followers&color=181717)](https://github.com/austinhttps)
+[![Total stars](https://img.shields.io/github/stars/austinhttps?affiliations=OWNER&style=for-the-badge&logo=github&label=stars&color=181717)](https://github.com/austinhttps?tab=repositories)
+[![MiteAI stars](https://img.shields.io/github/stars/austinhttps/MiteAI?style=for-the-badge&logo=github&label=MiteAI&color=181717)](https://github.com/austinhttps/MiteAI)
+[![Kitchen Rush stars](https://img.shields.io/github/stars/austinhttps/kitchen-rush?style=for-the-badge&logo=github&label=Kitchen%20Rush&color=181717)](https://github.com/austinhttps/kitchen-rush)
+[![CollabBoard stars](https://img.shields.io/github/stars/austinhttps/whiteboard-app?style=for-the-badge&logo=github&label=CollabBoard&color=181717)](https://github.com/austinhttps/whiteboard-app)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=austinhttps&hide_border=true&background=0D1117&ring=FFB7D5&fire=FF8FBC&currStreakLabel=FFB7D5&sideLabels=E6EDF3&dates=9DA7B3)](https://github.com/austinhttps)
+[![View contribution activity](https://img.shields.io/badge/GitHub-view%20contributions-9b6b91?style=for-the-badge&logo=github)](https://github.com/austinhttps)
 
 </div>
 
 `echo "Thanks for stopping by"` &nbsp; 🌸 &nbsp; `exit 0`
 
 </div>
+
