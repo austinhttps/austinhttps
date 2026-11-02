@@ -112,7 +112,7 @@ A collaborative whiteboard built with React, Konva, and Yjs, with local persiste
 
 </div>
 
-`echo "Thanks for stopping by"` &nbsp; 🌸 &nbsp; `exit 0`
+<div align="center"> `echo "Thanks for stopping by"` &nbsp; 🌸 &nbsp; `exit 0` </div>
 
 </div>
 
