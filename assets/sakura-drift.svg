@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="title desc">
+  <title id="title">Cherry blossom drift</title>
+  <desc id="desc">Pink cherry blossom petals drift across a midnight blue sky.</desc>
+  <defs>
+    <linearGradient id="night" x2="0" y2="1">
+      <stop stop-color="#11152b"/>
+      <stop offset="1" stop-color="#251a35"/>
+    </linearGradient>
+    <g id="flower" fill="#ffb7d5" opacity=".88">
+      <ellipse cy="-5" rx="3.2" ry="5.6"/>
+      <ellipse cy="-5" rx="3.2" ry="5.6" transform="rotate(72)"/>
+      <ellipse cy="-5" rx="3.2" ry="5.6" transform="rotate(144)"/>
+      <ellipse cy="-5" rx="3.2" ry="5.6" transform="rotate(216)"/>
+      <ellipse cy="-5" rx="3.2" ry="5.6" transform="rotate(288)"/>
+      <circle r="2.1" fill="#ffe7a8"/>
+    </g>
+  </defs>
+  <rect width="1200" height="150" rx="16" fill="url(#night)"/>
+  <g fill="#fff" opacity=".5">
+    <circle cx="83" cy="28" r="1.1"/><circle cx="275" cy="64" r="1"/><circle cx="483" cy="23" r="1.2"/>
+    <circle cx="672" cy="48" r=".9"/><circle cx="907" cy="25" r="1.1"/><circle cx="1098" cy="70" r="1"/>
+  </g>
+  <g>
+    <use href="#flower" x="90" y="20"><animateTransform attributeName="transform" type="translate" values="0 0;42 120;75 175" dur="8s" repeatCount="indefinite"/></use>
+    <use href="#flower" x="310" y="5" opacity=".8"><animateTransform attributeName="transform" type="translate" values="0 0;-30 120;-54 170" dur="10s" begin="-3s" repeatCount="indefinite"/></use>
+    <use href="#flower" x="520" y="10"><animateTransform attributeName="transform" type="translate" values="0 0;36 115;62 170" dur="9s" begin="-6s" repeatCount="indefinite"/></use>
+    <use href="#flower" x="735" y="15" opacity=".75"><animateTransform attributeName="transform" type="translate" values="0 0;-38 125;-66 175" dur="11s" begin="-2s" repeatCount="indefinite"/></use>
+    <use href="#flower" x="940" y="0"><animateTransform attributeName="transform" type="translate" values="0 0;29 115;52 170" dur="8.5s" begin="-5s" repeatCount="indefinite"/></use>
+    <use href="#flower" x="1130" y="15" opacity=".85"><animateTransform attributeName="transform" type="translate" values="0 0;-34 120;-60 170" dur="10.5s" begin="-1s" repeatCount="indefinite"/></use>
+  </g>
+  <path d="M0 125 Q220 112 430 128 T850 122 T1200 126" fill="none" stroke="#a6799e" stroke-opacity=".35"/>
+</svg>
+
