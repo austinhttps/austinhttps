@@ -54,14 +54,50 @@ Feel free to check out my experience and connect with me on [LinkedIn](https://w
 
 ## `05 // selected_projects`
 
-| Project | What it does |
-| --- | --- |
-| [**MiteAI**](https://github.com/austinhttps/MiteAI) | A privacy-first Windows AI assistant that runs local language models and a local knowledge base on-device. |
-| [**Kitchen Rush**](https://github.com/austinhttps/kitchen-rush) | A real-time cooperative cooking game with an authoritative Python server and browser clients. |
+<div align="center">
+
+<a href="https://github.com/austinhttps/MiteAI"><img src="https://raw.githubusercontent.com/austinhttps/MiteAI/main/src/MiteAI.App/icon.png" alt="MiteAI app icon" width="180" /></a>
+
+### [MiteAI](https://github.com/austinhttps/MiteAI)
+
+A native Windows assistant that runs local language models and a private knowledge base on-device.
+
+[![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://github.com/austinhttps/MiteAI) [![Privacy-first AI](https://img.shields.io/badge/On--device_AI-151515?style=flat-square&logo=windows&logoColor=white)](https://github.com/austinhttps/MiteAI)
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://github.com/austinhttps/kitchen-rush"><img src="https://image.thum.io/get/width/1000/crop/560/noanimate/https://kitchen-rush-one.vercel.app" alt="Screenshot of the Kitchen Rush game" width="90%" /></a>
+
+### [Kitchen Rush](https://github.com/austinhttps/kitchen-rush)
+
+A real-time cooperative cooking game with a Python server and browser clients.
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/austinhttps/kitchen-rush) [![Play](https://img.shields.io/badge/Live_demo-FFB7D5?style=flat-square&logo=vercel&logoColor=111111)](https://kitchen-rush-one.vercel.app)
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://github.com/austinhttps/whiteboard-app"><img src="https://image.thum.io/get/width/1000/crop/560/noanimate/https://whiteboard-app-austinhttps.vercel.app" alt="Screenshot of the CollabBoard whiteboard app" width="90%" /></a>
+
+### [CollabBoard](https://github.com/austinhttps/whiteboard-app)
+
+A collaborative whiteboard built with React, Konva, and Yjs, with local persistence and a multiplayer-ready canvas.
+
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111111)](https://github.com/austinhttps/whiteboard-app) [![Yjs](https://img.shields.io/badge/Yjs-6B4CE6?style=flat-square)](https://github.com/austinhttps/whiteboard-app) [![Live demo](https://img.shields.io/badge/Live_demo-FFB7D5?style=flat-square&logo=vercel&logoColor=111111)](https://whiteboard-app-austinhttps.vercel.app)
+
+</div>
 
 ## `06 // certifications`
 
-
+- **IBM** — AI Literacy
+- **Cisco** — Introduction to Cybersecurity
 
 ## `07 // github_telemetry`
 
