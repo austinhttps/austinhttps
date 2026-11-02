@@ -15,7 +15,7 @@
 
 Hey, I'm **Austin**, an Eagle Scout and cybersecurity student in **Raleigh, North Carolina**, learning how digital attacks can be mitigated in order to maintain confidentiality, integrity, and availability (CIA Triad) of data and systems. I enjoy building practical projects, exploring how AI can run closer to the user, and figuring out what is happening behind the terminal. Outside the digital world, cherry blossoms are my favorite reminder to slow down and enjoy the process. 🌸
 
-Feel free to check out my experience and connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/austinmirando/)
+Feel free to check out my experience and connect with me on [LinkedIn](https://www.linkedin.com/in/austinmirando/); I'd be happy to chat :-)
 
 **Interests:** application security · ethical hacking · privacy-first AI · software development · leadership · Hackathons
 
