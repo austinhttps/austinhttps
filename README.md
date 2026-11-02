@@ -62,7 +62,7 @@ Feel free to check out my experience and connect with me on [LinkedIn](https://w
 
 A native Windows assistant that runs local language models and a private knowledge base on-device.
 
-[![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://github.com/austinhttps/MiteAI) [![Privacy-first AI](https://img.shields.io/badge/On--device_AI-151515?style=flat-square&logo=windows&logoColor=white)](https://github.com/austinhttps/MiteAI)
+[![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://github.com/austinhttps/MiteAI) [![Privacy-first AI](https://img.shields.io/badge/On--device_AI-151515?style=flat-square&logo=windows&logoColor=white)](https://github.com/austinhttps/MiteAI) [![Stars](https://img.shields.io/github/stars/austinhttps/MiteAI?style=flat-square&logo=github)](https://github.com/austinhttps/MiteAI) [![Forks](https://img.shields.io/github/forks/austinhttps/MiteAI?style=flat-square&logo=github)](https://github.com/austinhttps/MiteAI) [![Commits](https://img.shields.io/github/commit-activity/t/austinhttps/MiteAI?style=flat-square&logo=github&label=commits)](https://github.com/austinhttps/MiteAI/commits/main)
 
 </div>
 
@@ -76,7 +76,7 @@ A native Windows assistant that runs local language models and a private knowled
 
 A real-time cooperative cooking game with a Python server and browser clients.
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/austinhttps/kitchen-rush) [![Play](https://img.shields.io/badge/Live_demo-FFB7D5?style=flat-square&logo=vercel&logoColor=111111)](https://kitchen-rush-one.vercel.app)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/austinhttps/kitchen-rush) [![Play](https://img.shields.io/badge/Live_demo-FFB7D5?style=flat-square&logo=vercel&logoColor=111111)](https://kitchen-rush-one.vercel.app) [![Stars](https://img.shields.io/github/stars/austinhttps/kitchen-rush?style=flat-square&logo=github)](https://github.com/austinhttps/kitchen-rush) [![Forks](https://img.shields.io/github/forks/austinhttps/kitchen-rush?style=flat-square&logo=github)](https://github.com/austinhttps/kitchen-rush) [![Commits](https://img.shields.io/github/commit-activity/t/austinhttps/kitchen-rush?style=flat-square&logo=github&label=commits)](https://github.com/austinhttps/kitchen-rush/commits/main)
 
 </div>
 
@@ -90,7 +90,7 @@ A real-time cooperative cooking game with a Python server and browser clients.
 
 A collaborative whiteboard built with React, Konva, and Yjs, with local persistence and a multiplayer-ready canvas.
 
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111111)](https://github.com/austinhttps/whiteboard-app) [![Yjs](https://img.shields.io/badge/Yjs-6B4CE6?style=flat-square)](https://github.com/austinhttps/whiteboard-app) [![Live demo](https://img.shields.io/badge/Live_demo-FFB7D5?style=flat-square&logo=vercel&logoColor=111111)](https://whiteboard-app-austinhttps.vercel.app)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111111)](https://github.com/austinhttps/whiteboard-app) [![Yjs](https://img.shields.io/badge/Yjs-6B4CE6?style=flat-square)](https://github.com/austinhttps/whiteboard-app) [![Live demo](https://img.shields.io/badge/Live_demo-FFB7D5?style=flat-square&logo=vercel&logoColor=111111)](https://whiteboard-app-austinhttps.vercel.app) [![Stars](https://img.shields.io/github/stars/austinhttps/whiteboard-app?style=flat-square&logo=github)](https://github.com/austinhttps/whiteboard-app) [![Forks](https://img.shields.io/github/forks/austinhttps/whiteboard-app?style=flat-square&logo=github)](https://github.com/austinhttps/whiteboard-app) [![Commits](https://img.shields.io/github/commit-activity/t/austinhttps/whiteboard-app?style=flat-square&logo=github&label=commits)](https://github.com/austinhttps/whiteboard-app/commits/main)
 
 </div>
 
@@ -103,11 +103,10 @@ A collaborative whiteboard built with React, Konva, and Yjs, with local persiste
 
 <div align="center">
 
+[![Public commits](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%253Aaustinhttps%26per_page%3D1&query=%24.total_count&label=public%20commits&style=for-the-badge&logo=github&color=181717)](https://github.com/search?q=author%3Aaustinhttps&type=commits)
+[![Public repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Faustinhttps&query=%24.public_repos&label=public%20repos&style=for-the-badge&logo=github&color=181717)](https://github.com/austinhttps?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/austinhttps?style=for-the-badge&logo=github&label=followers&color=181717)](https://github.com/austinhttps)
 [![Total stars](https://img.shields.io/github/stars/austinhttps?affiliations=OWNER&style=for-the-badge&logo=github&label=stars&color=181717)](https://github.com/austinhttps?tab=repositories)
-[![MiteAI stars](https://img.shields.io/github/stars/austinhttps/MiteAI?style=for-the-badge&logo=github&label=MiteAI&color=181717)](https://github.com/austinhttps/MiteAI)
-[![Kitchen Rush stars](https://img.shields.io/github/stars/austinhttps/kitchen-rush?style=for-the-badge&logo=github&label=Kitchen%20Rush&color=181717)](https://github.com/austinhttps/kitchen-rush)
-[![CollabBoard stars](https://img.shields.io/github/stars/austinhttps/whiteboard-app?style=for-the-badge&logo=github&label=CollabBoard&color=181717)](https://github.com/austinhttps/whiteboard-app)
 
 [![View contribution activity](https://img.shields.io/badge/GitHub-view%20contributions-9b6b91?style=for-the-badge&logo=github)](https://github.com/austinhttps)
 
