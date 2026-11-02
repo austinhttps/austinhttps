@@ -13,16 +13,16 @@
 
 ## `01 // about_me`
 
-Hey, I'm **Austin** — a cybersecurity student in **Raleigh, North Carolina**, learning how software works so I can help make it safer. I like building practical projects, exploring how AI can run closer to the user, and figuring out what is happening behind the terminal. Outside the lab, cherry blossoms are my favorite reminder to slow down and enjoy the process. 🌸
+Hey, I'm **Austin**, an Eagle Scout and cybersecurity student in **Raleigh, North Carolina**, learning how digital attacks can be mitigated in order to maintain confidentiality, integrity, and availability (CIA Triad) of data and systems. I enjoy building practical projects, exploring how AI can run closer to the user, and figuring out what is happening behind the terminal. Outside the digital world, cherry blossoms are my favorite reminder to slow down and enjoy the process. 🌸
 
-**Interests:** application security · ethical hacking · privacy-first AI · software development · CTFs
+**Interests:** application security · ethical hacking · privacy-first AI · software development · leadership · Hackathons
 
 ```text
 ┌─[austin@blossom-shell]─[~/profile]
 └──╼ $ whoami
-     student | builder | lifelong learner
+     Eagle Scout | student | builder | servant leader | lifelong learner
 └──╼ $ mission
-     make useful things, understand the risks, leave systems safer
+     develop useful things, understand the risks, leave systems safer
 ```
 
 ## `02 // toolchain`
@@ -36,20 +36,19 @@ Hey, I'm **Austin** — a cybersecurity student in **Raleigh, North Carolina**, 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/Antigravity-151515?style=for-the-badge&logo=google&logoColor=8AB4F8" alt="Antigravity" />
-  <img src="https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
 </p>
 
 ## `03 // communities`
 
-[![DEV Community](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/)
+[![DEV Community](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/austinhttps)
 [![Major League Hacking](https://img.shields.io/badge/MLH-5A2CA0?style=for-the-badge&logo=hackthebox&logoColor=white)](https://mlh.io/)
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/austinmirando)
 
 ## `04 // learning_now`
 
 - **Python** — building fluency through small tools and projects
 - **Cybersecurity** — networking, secure coding, threat analysis, and hands-on labs
-- **Applied AI** — local models, useful assistants, and privacy-aware product design
+- **Applied & Ethical AI** — local models, useful assistants, and privacy-aware product design
 
 ## `05 // selected_projects`
 
@@ -60,7 +59,7 @@ Hey, I'm **Austin** — a cybersecurity student in **Raleigh, North Carolina**, 
 
 ## `06 // certifications`
 
-I'm building my certification path now. I'll add credentials here as I earn them.
+
 
 ## `07 // github_telemetry`
 
@@ -78,11 +77,10 @@ I'm building my certification path now. I'll add credentials here as I earn them
 I'm happy to connect with fellow students, builders, and security folks.
 
 - [GitHub](https://github.com/austinhttps)
-- [LinkedIn](https://www.linkedin.com/) — add your profile URL here
+- [LinkedIn](https://www.linkedin.com/in/austinmirando/) — add your profile URL here
 
 <div align="center">
 
 `echo "Thanks for stopping by"` &nbsp; 🌸 &nbsp; `exit 0`
 
 </div>
-
