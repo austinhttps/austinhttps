@@ -4,7 +4,7 @@
 
 <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=FFB7D5&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Austin+Mirando+%F0%9F%91%8B;Welcome+to+my+corner+of+the+net+%F0%9F%8C%B8;Cybersecurity+student+%7C+builder+%7C+AI+explorer" alt="Rotating welcome messages" /></a>
 
-### `> human.init()` &nbsp; `> agent.mode: curious` &nbsp; `> location: Raleigh, NC`
+### `> human.init()` &nbsp; `>hello_world(print)` &nbsp; `> agent.mode: curious` &nbsp; `> location: Raleigh, NC`
 
 [![GitHub followers](https://img.shields.io/github/followers/austinhttps?style=for-the-badge&logo=github&label=FOLLOW)](https://github.com/austinhttps)
 [![Profile views](https://komarev.com/ghpvc/?username=austinhttps&style=for-the-badge&color=9b6b91)](https://github.com/austinhttps)
