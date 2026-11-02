@@ -15,6 +15,8 @@
 
 Hey, I'm **Austin**, an Eagle Scout and cybersecurity student in **Raleigh, North Carolina**, learning how digital attacks can be mitigated in order to maintain confidentiality, integrity, and availability (CIA Triad) of data and systems. I enjoy building practical projects, exploring how AI can run closer to the user, and figuring out what is happening behind the terminal. Outside the digital world, cherry blossoms are my favorite reminder to slow down and enjoy the process. 🌸
 
+Feel free to check out my experience and connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/austinmirando/)
+
 **Interests:** application security · ethical hacking · privacy-first AI · software development · leadership · Hackathons
 
 ```text
@@ -71,15 +73,6 @@ Hey, I'm **Austin**, an Eagle Scout and cybersecurity student in **Raleigh, Nort
 [![GitHub Streak](https://streak-stats.demolab.com?user=austinhttps&hide_border=true&background=0D1117&ring=FFB7D5&fire=FF8FBC&currStreakLabel=FFB7D5&sideLabels=E6EDF3&dates=9DA7B3)](https://github.com/austinhttps)
 
 </div>
-
-## `08 // connect`
-
-I'm happy to connect with fellow students, builders, and security folks.
-
-- [GitHub](https://github.com/austinhttps)
-- [LinkedIn](https://www.linkedin.com/in/austinmirando/) — add your profile URL here
-
-<div align="center">
 
 `echo "Thanks for stopping by"` &nbsp; 🌸 &nbsp; `exit 0`
 
