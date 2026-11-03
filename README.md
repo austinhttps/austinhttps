@@ -111,10 +111,7 @@ A collaborative whiteboard built with React, Konva, and Yjs, with local persiste
 [![View contribution activity](https://img.shields.io/badge/GitHub-view%20contributions-9b6b91?style=for-the-badge&logo=github)](https://github.com/austinhttps)
 
 </div>
-<div align="center">
 
-     `echo "Thanks for stopping by"` &nbsp; 🌸 &nbsp; `exit 0` 
-
-</div>
+`echo "Thanks for stopping by"` &nbsp; 🌸 &nbsp; `exit 0` 
 </div>
 
