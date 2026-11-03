@@ -70,7 +70,7 @@ A native Windows assistant that runs local language models and a private knowled
 
 <div align="center">
 
-<a href="https://github.com/austinhttps/kitchenrush"><img src="assets/kitchen-rush-icon.svg" alt="Kitchen Rush app icon" width="180" /></a>
+<a href="https://github.com/austinhttps/kitchenrush"><img src="assets/kitchenrush-icon.svg" alt="Kitchen Rush app icon" width="180" /></a>
 
 ### [Kitchen Rush](https://github.com/austinhttps/kitchenrush)
 
@@ -84,7 +84,7 @@ A real-time cooperative cooking game with a Python server and browser clients.
 
 <div align="center">
 
-<a href="https://github.com/austinhttps/scribblboard"><img src="assets/collaboard-icon.svg" alt="scribblboard app icon" width="180" /></a>
+<a href="https://github.com/austinhttps/scribblboard"><img src="assets/scribblboard-icon.svg" alt="scribblboard app icon" width="180" /></a>
 
 ### [ScribblBoard](https://github.com/austinhttps/scribblboard)
 
