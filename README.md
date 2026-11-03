@@ -70,9 +70,9 @@ A native Windows assistant that runs local language models and a private knowled
 
 <div align="center">
 
-<a href="https://github.com/austinhttps/kitchen-rush"><img src="assets/kitchen-rush-icon.svg" alt="Kitchen Rush app icon" width="180" /></a>
+<a href="https://github.com/austinhttps/kitchenrush"><img src="assets/kitchen-rush-icon.svg" alt="Kitchen Rush app icon" width="180" /></a>
 
-### [Kitchen Rush](https://github.com/austinhttps/kitchen-rush)
+### [Kitchen Rush](https://github.com/austinhttps/kitchenrush)
 
 A real-time cooperative cooking game with a Python server and browser clients.
 
@@ -84,9 +84,9 @@ A real-time cooperative cooking game with a Python server and browser clients.
 
 <div align="center">
 
-<a href="https://github.com/austinhttps/whiteboard-app"><img src="assets/collaboard-icon.svg" alt="CollabBoard app icon" width="180" /></a>
+<a href="https://github.com/austinhttps/scribblboard"><img src="assets/collaboard-icon.svg" alt="scribblboard app icon" width="180" /></a>
 
-### [CollabBoard](https://github.com/austinhttps/whiteboard-app)
+### [ScribblBoard](https://github.com/austinhttps/scribblboard)
 
 A collaborative whiteboard built with React, Konva, and Yjs, with local persistence and a multiplayer-ready canvas.
 
